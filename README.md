@@ -4,7 +4,7 @@ Cannon Loader is a Mod loader for the game Redcon by Hexage, at the current stag
 ## How to install CL (Windows)
 
  1. Install FFmpeg https://www.wikihow.com/Install-FFmpeg-on-Windows (you may need to restart your pc)
- 2. Simply run the .exe in the release tab!
+ 2. Simply download and run the .exe in the releases page!
 
 ## How to use CL (Windows)
 
