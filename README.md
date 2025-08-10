@@ -14,4 +14,5 @@ Cannon Loader is a Mod loader for the game Redcon by Hexage, at the current stag
  4. Load the file into the program and make your changes (add / remove / edit images or sounds as needed) then export the .pk file **SELECT THE SAME FILE AS THE ONE YOU EXTRACTED FROM (replace it)**
  5. rename the file to the original file name and replace it in redcon's media folder
 
+## THE REPLACEMENT FILE SIZE MUST BE SMALLER OR EQUALTO THE ORIGINAL FILE!
 ### WARNING DO NOT RUN CL DIRECTLY IN REDCON'S MEDIA FOLDER! PLEASE CREATE A SPEREATE FOLDER ON YOUR DESKTOP.
