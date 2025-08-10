@@ -1,6 +1,10 @@
 # Cannon Loader
 Cannon Loader is a Mod loader for the game Redcon by Hexage, at the current stage it can only load texture and audio packs. There is no current plan for mobile or IOS.
 
+## How to install a CL mod (Windows)
+1. In steam go to the game page in your library, then the gear icon properties and browse local files and go in redcon's media folder
+2. Replace the .pk files with the mod's pk files.
+
 ## How to install CL (Windows)
 
  1. Install FFmpeg https://www.wikihow.com/Install-FFmpeg-on-Windows (you may need to restart your pc)
